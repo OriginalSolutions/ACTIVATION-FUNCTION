@@ -1,6 +1,7 @@
 # ACTIVATION FUNCTION
+***
 ACTIVATION FUNCTION TESTER FOR AI
-
+***
 
 The goal of this project is to promote, the building and testing of new or custom activation features.
 The solution is based on a class that defines a neural network placed on the website: https://realpython.com/python-ai-neural-network/   
